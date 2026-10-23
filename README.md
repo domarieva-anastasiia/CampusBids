@@ -4,6 +4,7 @@ CampusBids — це вебплатформа для студентів, що п�
 ## Документація
 - Специфікація вимог до програмного забезпечення (SRS) у форматі PDF знаходиться у папці Documents у файлі [CampusBids_SRS_v1.0.pdf](https://github.com/domarieva-anastasiia/CampusBids/blob/main/Documents/CampusBids_SRS_v1.0.pdf).
 - Документація API на основі OpenAPI з описом помилок знаходиться у папці Documents у файлі [swagger.json](https://github.com/domarieva-anastasiia/CampusBids/blob/main/Documents/swagger.json), а також в інтерактивному форматі Swagger UI [за посиланням](https://editor.swagger.io/?url=https://raw.githubusercontent.com/domarieva-anastasiia/CampusBids/refs/heads/main/Documents/swagger.json).
+- Документація Error Handling design з прикладами помилкових запитів, результатів з помилкою та реакцій клієнта знаходиться у папці Documents у файлі [Error Handling design](https://github.com/domarieva-anastasiia/CampusBids/blob/main/Documents/Error%20Handling%20design.pdf).
 
 ## Автори
 - [Анчіфоров Микола](https://github.com/headhunterjr)
